@@ -1,0 +1,9 @@
+.data {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.content-title {
+    margin-left: 600px;
+}

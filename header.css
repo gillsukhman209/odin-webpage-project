@@ -1,0 +1,60 @@
+.header {
+    background: #1F2937;
+    display: flex;
+    flex-direction: column;
+    height: 450px;
+}
+
+
+/* Navbar */
+
+.navbar {
+    display: flex;
+}
+
+.links {
+    display: flex;
+    gap: 50px;
+}
+
+.links .link-content {
+    color: rgb(102, 99, 99);
+    font-size: 13px;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    flex: 1;
+    margin-left: 200px;
+}
+
+.header-content {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    margin-top: 50px;
+}
+
+.header-left-side {
+    color: white;
+    margin-left: 200px;
+}
+
+.header-title {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header-subtext {
+    color: #E5E7EB;
+    margin-top: -25px;
+    font-size: 18px;
+}
+
+.header-img {
+    flex: 1;
+    height: 100px;
+    width: 100px;
+}
